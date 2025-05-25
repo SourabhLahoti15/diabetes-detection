@@ -1,17 +1,17 @@
-🩺 Diabetes Detection Project
+# 🩺 Diabetes Detection Project
 Welcome to the Diabetes Detection project — an end-to-end data analysis workflow using a clinical dataset from Kaggle. The goal is to understand and visualize trends that can help identify diabetic patients based on various health indicators.
 
 
 📁 Project Structure
-fraud-detection-preprocessing/
-├── dataset/
-│   └── 100000-diabetes-clinical-dataset.csv
-├── notebook/
-│   └── DiabetesDetection.ipynb
-├── presentation/
-│   └── Diabetes-Detection-with-Data-Analytics.pdf
-├── README.md
-└── requirements.txt
+fraud-detection-preprocessing/  
+├── dataset/  
+│   └── 100000-diabetes-clinical-dataset.csv  
+├── notebook/  
+│   └── DiabetesDetection.ipynb  
+├── presentation/  
+│   └── Diabetes-Detection-with-Data-Analytics.pdf  
+├── README.md  
+└── requirements.txt  
 
 
 ⚙️ Setup Instructions
