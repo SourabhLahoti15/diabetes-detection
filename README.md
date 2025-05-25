@@ -36,6 +36,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
   cd diabetes-detection
 ```
 3. Launch the notebook:
+   ``` bash
    jupyter notebook DiabetesDetection.ipynb
 
 
