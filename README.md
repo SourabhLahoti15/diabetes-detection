@@ -2,7 +2,7 @@
 Welcome to the Diabetes Detection project — an end-to-end data analysis workflow using a clinical dataset from Kaggle. The goal is to understand and visualize trends that can help identify diabetic patients based on various health indicators.
 
 
-📁 Project Structure
+# 📁 Project Structure
 fraud-detection-preprocessing/  
 ├── dataset/  
 │   └── 100000-diabetes-clinical-dataset.csv  
@@ -14,17 +14,17 @@ fraud-detection-preprocessing/
 └── requirements.txt  
 
 
-⚙️ Setup Instructions
-✅ Requirements
-# Core libraries
+# ⚙️ Setup Instructions
+## ✅ Requirements
+## Core libraries
 pandas==2.2.2  
 numpy==1.26.4  
-# Visualization  
+## Visualization  
 matplotlib==3.8.4  
 seaborn==0.13.2  
-# Machine Learning and preprocessing  
+## Machine Learning and preprocessing  
 scikit-learn==1.4.2  
-# Jupyter Notebook support  
+## Jupyter Notebook support  
 jupyter==1.0.0  
 pip install pandas numpy matplotlib seaborn scikit-learn  
 
@@ -35,12 +35,12 @@ pip install pandas numpy matplotlib seaborn scikit-learn
   git clone https://github.com/SourabhLahoti15/diabetes-detection.git
   cd diabetes-detection
 ```
-3. Launch the notebook:
+2. Launch the notebook:
    ``` bash
    jupyter notebook DiabetesDetection.ipynb
 
 
-🎯 Project Overview  
+# 🎯 Project Overview  
 Dataset:  
 Source: Kaggle — Comprehensive Diabetes Clinical Dataset  
 link: https://www.kaggle.com/datasets/priyamchoksi/100000-diabetes-clinical-dataset  
