@@ -31,9 +31,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ▶️ How to Run
 1. Clone the repo:
+ ```bash
   git clone https://github.com/SourabhLahoti15/diabetes-detection.git
   cd diabetes-detection
-2. Launch the notebook:
+```
+3. Launch the notebook:
    jupyter notebook DiabetesDetection.ipynb
 
 
