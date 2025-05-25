@@ -17,16 +17,16 @@ fraud-detection-preprocessing/
 ⚙️ Setup Instructions
 ✅ Requirements
 # Core libraries
-pandas==2.2.2
-numpy==1.26.4
-# Visualization
-matplotlib==3.8.4
-seaborn==0.13.2
-# Machine Learning and preprocessing
-scikit-learn==1.4.2
-# Jupyter Notebook support
-jupyter==1.0.0
-pip install pandas numpy matplotlib seaborn scikit-learn
+pandas==2.2.2  
+numpy==1.26.4  
+# Visualization  
+matplotlib==3.8.4  
+seaborn==0.13.2  
+# Machine Learning and preprocessing  
+scikit-learn==1.4.2  
+# Jupyter Notebook support  
+jupyter==1.0.0  
+pip install pandas numpy matplotlib seaborn scikit-learn  
 
 
 ▶️ How to Run
