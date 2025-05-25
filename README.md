@@ -29,7 +29,7 @@ jupyter==1.0.0
 pip install pandas numpy matplotlib seaborn scikit-learn  
 
 
-▶️ How to Run
+# ▶️ How to Run
 1. Clone the repo:
  ```bash
   git clone https://github.com/SourabhLahoti15/diabetes-detection.git
