@@ -52,3 +52,5 @@ Features: 'year', 'gender', 'age', 'location', 'race:AfricanAmerican',
        'hypertension', 'heart_disease', 'smoking_history', 'bmi',
        'hbA1c_level', 'blood_glucose_level', 'diabetes'
        
+# Story telling and findings from power bi  
+In the dataset, blood glucose levels (glucose) showed a strong positive correlation with diabetes occurrence, making it the most significant predictor. Patients with high BMI and higher age also had a greater likelihood of diabetes, highlighting obesity and aging as key risk factors. Interestingly, most diabetic patients fell in the 30–50 age group, with a concentration of cases observed among females. The data also revealed that a majority of diabetic patients had zero insulin value recorded, pointing to either missing data or abnormal insulin regulation. Overall, these visuals suggest that targeting weight management and regular glucose monitoring—especially among middle-aged individuals—could be vital in diabetes prevention.  
