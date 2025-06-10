@@ -3,7 +3,7 @@ Welcome to the Diabetes Detection project — an end-to-end data analysis workfl
 
 
 # 📁 Project Structure
-fraud-detection-preprocessing/  
+diabetes-detection/  
 ├── dataset/  
 │   └── 100000-diabetes-clinical-dataset.csv  
 ├── notebook/  
