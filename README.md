@@ -8,6 +8,8 @@ fraud-detection-preprocessing/
 │   └── 100000-diabetes-clinical-dataset.csv  
 ├── notebook/  
 │   └── DiabetesDetection.ipynb  
+├── powerbi/  
+│   └── diabetesDetection.pbix  
 ├── presentation/  
 │   └── Diabetes-Detection-with-Data-Analytics.pdf  
 ├── README.md  
