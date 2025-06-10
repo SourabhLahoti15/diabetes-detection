@@ -46,7 +46,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Dataset:  
 Source: Kaggle — Comprehensive Diabetes Clinical Dataset  
 link: https://www.kaggle.com/datasets/priyamchoksi/100000-diabetes-clinical-dataset  
-Rows: 10000+  
+Rows: 100000  
 Features: 'year', 'gender', 'age', 'location', 'race:AfricanAmerican',
        'race:Asian', 'race:Caucasian', 'race:Hispanic', 'race:Other',
        'hypertension', 'heart_disease', 'smoking_history', 'bmi',
